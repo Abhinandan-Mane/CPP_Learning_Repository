@@ -23,8 +23,7 @@ Welcome to my C++ learning repository! This repository tracks my progress as I d
 *Introduction to variables and constants in C++, including data types, declaration, initialization, and the differences between variables and constants.*
 
 ### Section 7:Arrays and Vectors
-*Introduction to arrays and vectors in C++, including their declaration, initialization, and manipulation. Learn how to use these data structures to store and manage collections of elements efficiently
----
+*Introduction to arrays and vectors in C++, including their declaration, initialization, and manipulation. Learn how to use these data structures to store and manage collections of elements efficiently.*
 
 *I will keep updating this repository as I progress through the course. Feel free to follow along and explore the code samples provided in each section.*
 
